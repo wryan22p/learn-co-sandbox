@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Hi! 👋
 
@@ -11,3 +12,9 @@ Saving varies by the type of work you are doing:
 To learn more about the Sandbox, please visit http://help.learn.co/technical-support/learn-ide-in-browser/ide-in-browser-sandbox
 sound = "squeak"
 puts sound
+=======
+first_number = 7
+second_number = 14
+sum = first_number + second_number
+puts sum
+>>>>>>> 2c2f642ba49a073681d2b4634a121e11a04c54bf
